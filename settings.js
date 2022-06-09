@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Irvanbot-MD" //namabot kalian
-global.ownername= "Irvan" //nama kalian
+global.botname = "IRVANBOT-MD" //namabot kalian
+global.ownername= "IRVAN" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UC5WIsU9PIu65E4USm5s6MyQ" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UC93FQ4i6R7xlCH2Cei5blpw" //bebas asal jan hapus
 global.github = "https://rain4you.github.io/" //bebas
 global.email = "septiantampan890@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6281363173875" // nomor wa kalian
-global.ownernomerr = "+6282274499424" //nmr wa kalian
+global.ownernomerr = "+6282161046584" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6281363173875","6281363173875","6281363173875"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Irvanbot-MD' //sticker wm ubah
-global.author = 'Di Buat Oleh Irvan' //sticker wm ganti nama kalian
+global.packname = '© IRVANBOT-MD' //sticker wm ubah
+global.author = 'Di Buat Oleh IRVAN' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
